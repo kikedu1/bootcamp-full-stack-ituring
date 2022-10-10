@@ -8,8 +8,8 @@ email='enriduranh@gmail.com'
 profissao='Engenheiro de produção'
 idade=40
 lugar_sonho='Taiti'
-console.log(nome)
-console.log(email)
-console.log(profissao)
-console.log(idade)
-console.log(lugar_sonho)
+console.log(typeof(nome))
+console.log(typeof(email))
+console.log(typeof(profissao))
+console.log(typeof(idade))
+console.log(typeof(lugar_sonho))
