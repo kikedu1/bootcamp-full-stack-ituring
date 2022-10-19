@@ -1,6 +1,6 @@
 function calculoImc(x,y) {
     imc = x/(y*y)
-    if (imc < 10.8){
+    if (imc < 18.5){
         console.log('Abaixo do Peso')
     } else if (imc>=18.5 && imc <25){
         console.log('Peso Normal')
